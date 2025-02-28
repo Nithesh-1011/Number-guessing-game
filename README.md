@@ -1,8 +1,9 @@
 # Number Guessing Game
+It is inspired from the [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)project featured in the [Backend Roadmap](https://roadmap.sh/backend) from [roadmap.sh](https://roadmap.sh/).
 
 ## Description
 The **Number Guessing Game** is a simple console-based game where the player tries to guess a randomly generated number between 1 and 100. The game provides three difficulty levels, each with a different number of attempts to guess the correct number.
-It is inspired from the [Expense Tracker](https://roadmap.sh/projects/expense-tracker) project featured in the [Backend Roadmap](https://roadmap.sh/backend) from [roadmap.sh](https://roadmap.sh/).
+
 
 ## Features
 - **Three Difficulty Levels:**
